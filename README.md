@@ -4,6 +4,7 @@
 ## Project Description
 This project demonstrates fundamental data analysis and visualization techniques using Python's Pandas and Matplotlib libraries.  
 The analysis is performed on the classic Iris dataset, which contains measurements of iris flowers from three different species.  
+Keep in mind this version of code it isn't necessary for one to download scikit-learn!!
 
 ## Features
 - **Data Loading & Exploration**: Loads the Iris dataset and examines its structure  
